@@ -1,0 +1,5 @@
+agent:
+  class_name: Test_agentAgent
+  description: This agent is for testing the Create New Agent Repository process
+  domain: testing
+  package_name: test_agent
